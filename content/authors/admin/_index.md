@@ -54,7 +54,7 @@ interests:
 
 education:
   - area: PhD Applied Mathematics for Biology
-    institution: INRAE Centre Val de Loire
+    institution: INRAE Centre Val de Loire 
     date_start: 2022-11-01
     date_end: 2025-10-31
     summary: |
@@ -168,4 +168,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm currently a PhD candidate at INRAE in applied mathematics for biology. My thesis is about the modelling of female germ cells 

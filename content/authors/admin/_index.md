@@ -121,7 +121,7 @@ skills:
       - name: FreeFem
         description: ''
         percent: 60
-        icon: freefem
+        icon: code-bracket
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -129,15 +129,15 @@ skills:
       - name: Hiking
         description: ''
         percent: 60
-        icon: person-simple-walk
+        icon: '' #person-simple-walk
       - name: Cats
         description: ''
         percent: 100
-        icon: cat
+        icon: ''
       - name: Photography
         description: ''
         percent: 80
-        icon: camera
+        icon: ''#camera
 
 languages:
   - name: English

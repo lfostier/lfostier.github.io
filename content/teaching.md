@@ -10,6 +10,7 @@ sections:
         Here are the courses I have taught, showcasing my teaching journey.
 
   - block: experience
+    id: teach
     content:
       title: "Courses Taught"
       date_format: "Jan 2006"

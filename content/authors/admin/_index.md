@@ -87,6 +87,14 @@ education:
       - Analysis
       - Physics
 work:
+  - position: Hackaton
+    company_name: CEMRACS
+    company_url: ''
+    company_logo: ''
+    date_start: 2023-07-20
+    date_end: 2023-08-25
+    summary: |
+      Scientific machine learning 
   - position: Internship
     company_name: INRIA Paris Saclay
     company_url: ''

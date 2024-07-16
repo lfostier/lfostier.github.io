@@ -18,33 +18,31 @@ date_format: Jan 2006
 sections:
   - block: experience
     content:
-      - title: 'CEO'
-        company: 'GenCoin'
-        company_url: ''
-        company_logo: ''  # Optional logo
-        location: 'California'
-        date_start: '2017-01-01'
-        date_end: ''
-        description: >-
-          Responsibilities include:
-          
-          * Analysing
-          * Modelling
-          * Deploying
-  - block: experience
-    content:
-      - title: 'CTO'
-        company: 'TechCorp'
-        company_url: ''
-        company_logo: ''  # Optional logo
-        location: 'New York'
-        date_start: '2015-06-01'
-        date_end: '2020-12-31'
-        description: >-
-          Responsibilities include:
-          
-          * Leading the tech team
-          * Overseeing development
-          * Ensuring security
----
-
+      text: "Here is some introductory text about my experience."  # Added text field
+      experiences:
+        - title: 'CEO'
+          company: 'GenCoin'
+          company_url: ''
+          company_logo: ''  # Optional logo
+          location: 'California'
+          date_start: '2017-01-01'
+          date_end: ''
+          description: >-
+            Responsibilities include:
+            
+            * Analysing
+            * Modelling
+            * Deploying
+        - title: 'CTO'
+          company: 'TechCorp'
+          company_url: ''
+          company_logo: ''  # Optional logo
+          location: 'New York'
+          date_start: '2015-06-01'
+          date_end: '2020-12-31'
+          description: >-
+            Responsibilities include:
+            
+            * Leading the tech team
+            * Overseeing development
+            * Ensuring security

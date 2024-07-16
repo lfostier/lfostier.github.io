@@ -1,35 +1,43 @@
 ---
-title: "Teaching"
-type: "landing"
+title: Teaching
+type: landing
 
 sections:
-  - block: markdown
-    content:
-      title: "Teaching Experiences"
-      subtitle: "Courses I've Taught"
-      text: >
-        Below are the courses I have taught, showcasing the skills and knowledge imparted.
-
   - block: experience
     content:
-      - title: "Introduction to Computer Science"
-        date_start: "2023-09-01"
-        date_end: ""
-        description: >
-          An introductory course on the basics of computer science, covering fundamental concepts and practical applications.
+      title: Experience
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many experience `items` below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: CEO
+          company: GenCoin
+          company_url: ''
+          company_logo: org-gc
+          location: California
+          date_start: '2021-01-01'
+          date_end: ''
+          description: |2-
+              Responsibilities include:
 
-      - title: "Advanced Algorithms"
-        date_start: "2023-01-01"
-        date_end: ""
-        description: >
-          An in-depth course focusing on advanced algorithmic techniques, including sorting, searching, and optimization.
-
-      - title: "Data Structures"
-        date_start: "2022-09-01"
-        date_end: ""
-        description: >
-          A comprehensive course covering various data structures and their applications, including arrays, lists, and trees.
+              * Analysing
+              * Modelling
+              * Deploying
+        - title: Professor of Semiconductor Physics
+          company: University X
+          company_url: ''
+          company_logo: org-x
+          location: California
+          date_start: '2016-01-01'
+          date_end: '2020-12-31'
+          description: Taught electronic engineering and researched semiconductor physics.
     design:
+      # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
 ---
 

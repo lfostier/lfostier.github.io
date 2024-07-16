@@ -94,7 +94,7 @@ work:
     company_logo: ''
     date_start: 2022-04-01
     date_end: 2022-09-01
-    summary: |2-
+    summary: |
     Modelling of fish oogenesis
   - position: Internship
     company_name: IRMAR

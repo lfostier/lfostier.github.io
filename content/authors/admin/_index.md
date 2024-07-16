@@ -126,17 +126,17 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Sports
         description: ''
-        percent: 60
+        percent: 100
         icon: '' #person-simple-walk
-      - name: Cats
+      - name: Computer-aided Music
         description: ''
         percent: 100
         icon: ''
-      - name: Photography
+      - name: Nature
         description: ''
-        percent: 80
+        percent: 100
         icon: ''#camera
 
 languages:
@@ -152,13 +152,13 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
- # - title: Neural Networks and Deep Learning
- #   url: https://www.coursera.org/learn/neural-networks-deep-learning
- #   date: '2023-11-25'
- #   awarder: Coursera
- #   icon: coursera
- #   summary: |
- #     I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+  - title: Neural Networks and Deep Learning
+    url: https://www.coursera.org/learn/neural-networks-deep-learning
+    date: '2023-11-25'
+    awarder: Coursera
+    icon: coursera
+    summary: |
+      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
 
 ---
 

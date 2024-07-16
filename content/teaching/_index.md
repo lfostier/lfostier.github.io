@@ -1,23 +1,35 @@
 ---
-title: Teaching
-summary: My courses
+title: 'Teaching'
+summary : My courses
 type: landing
 
-cascade:
-  - _target:
-      kind: page
-    params:
-      show_breadcrumb: true
+design:
+  spacing: '5rem'
 
+# Note: `username` refers to the user's folder name in `content/authors/`
+
+# Page sections
 sections:
-  - block: collection
-    id: teaching
+  - block: resume-experience
     content:
-      title: Teaching
-      filters:
-        folders:
-          - teaching
+      username: admin
     design:
-      view: citation
-      columns: 1
+      # Hugo date format
+      date_format: 'January 2006'
+      # Education or Experience section first?
+      is_education_first: false
+  - block: resume-skills
+    content:
+      title: Skills & Hobbies
+      username: admin
+    design:
+      show_skill_percentage: False
+  # - block: resume-awards
+  #   content:
+  #     title: Awards
+  #     username: admin
+  - block: resume-languages
+    content:
+      title: Languages
+      username: admin
 ---

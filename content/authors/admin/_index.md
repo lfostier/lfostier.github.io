@@ -153,7 +153,7 @@ languages:
   - name: French
     percent: 100
   - name: Italian
-    percent: 60
+    percent: 70
 
 # Awards.
 #   Add/remove as many awards below as you like.

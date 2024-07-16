@@ -2,7 +2,7 @@
 title: "Teaching"
 type: "landing"
 
-sections:bon 
+sections:
   - block: markdown
     content:
       title: "Teaching Experiences"

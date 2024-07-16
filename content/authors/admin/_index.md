@@ -68,7 +68,7 @@ education:
     date_start: 2022-09-01
     date_end: 2020-09-01
     summary: | 
-    summa cum laude
+    mention : summa cum laude
 
       Courses included:
       - numerical analysis
@@ -81,7 +81,7 @@ education:
     date_start: 2017-09-01
     date_end: 2020-09-01
     summary: |
-      summa cum laude
+      mention : summa cum laude
       
       Courses included:
       - Algebra 

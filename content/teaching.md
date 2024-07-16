@@ -1,31 +1,32 @@
 ---
 title: "Teaching"
-summary: "My teaching experiences"
 type: "landing"
 
-design:
-  spacing: "5rem"
-
-date_format: Jan 2006
-
 sections:
-  - block: experience
-    id: teaching
+  - block: markdown
     content:
-      experiences:
-        - title: "Introduction to Computer Science"
-          date: "Fall 2023"
-          institution: "University of Somewhere"
-          hours: "30 hours"
-          description: "An introductory course on the basics of computer science."
-        - title: "Advanced Algorithms"
-          date: "Spring 2023"
-          institution: "University of Anywhere"
-          hours: "45 hours"
-          description: "An in-depth course on advanced algorithmic techniques."
-        - title: "Data Structures"
-          date: "Fall 2022"
-          institution: "University of Everywhere"
-          hours: "40 hours"
-          description: "A comprehensive course on data structures and their applications."
+      title: "Teaching Experiences"
+      subtitle: "Courses I have taught"
+      text: >
+        Here are some of the courses I have taught, along with details about each:
+
+        ### Introduction to Computer Science
+        **Date**: Fall 2023  
+        **Institution**: University of Somewhere  
+        **Number of Hours**: 30 hours  
+        An introductory course on the basics of computer science.
+
+        ### Advanced Algorithms
+        **Date**: Spring 2023  
+        **Institution**: University of Anywhere  
+        **Number of Hours**: 45 hours  
+        An in-depth course on advanced algorithmic techniques.
+
+        ### Data Structures
+        **Date**: Fall 2022  
+        **Institution**: University of Everywhere  
+        **Number of Hours**: 40 hours  
+        A comprehensive course on data structures and their applications.
+    design:
+      columns: '1'
 ---

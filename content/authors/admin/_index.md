@@ -49,7 +49,7 @@ profiles:
 interests:
   - Mathematical biology
   - Partial Differential Equations
-  - Scientific Calculus
+  - Scientific Computing
   - Deep Learning
 
 education:
@@ -58,7 +58,7 @@ education:
     date_start: 2022-11-01
     date_end: 2025-10-31
     summary: |
-      Thesis on the mathematical modelling of oocyte population. Supervised by [Romain Yvinec](https://yvinec.perso.math.cnrs.fr/home_fr.html) and [Frédérique Clément](https://team.inria.fr/musca/members/frederique-clement/). 
+      Thesis on the mathematical modelling of oocyte population. Supervised by Romain Yvinec and Frédérique Clément.
     button:
       text: ''
       url: ''
@@ -71,10 +71,10 @@ education:
    
 
       Courses included:
-      - numerical analysis
-      - scientific computing
-      - physics-based modelling
-      - parameter estimation
+      - Numerical analysis
+      - Scientific computing
+      - Physics-based modelling
+      - Parameter estimation
 
   - area: Bachelor's degree Mathematics
     institution: University of Rennes 1
@@ -112,16 +112,16 @@ skills:
     items:
       - name: Python
         description: ''
+        percent: 90
+        icon: code-bracket
+      - name: Matlab
+        description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: FreeFem
         description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
+        percent: 60
+        icon: freefem
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'

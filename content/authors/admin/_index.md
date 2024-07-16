@@ -53,61 +53,58 @@ interests:
   - Deep Learning
 
 education:
-  - area: PhD Applied Mathematics for Biology
+  - area: PhD in Applied Mathematics for Biology
     institution: INRAE Centre Val de Loire 
     date_start: 2022-11-01
     date_end: 2025-10-31
     summary: |
-      Thesis on the mathematical modelling of oocyte population. Supervised by [Romain Yvinec](https://example.com) and [Frédérique Clément](https://team.inria.fr/musca/members/frederique-clement/). 
+      Thesis on the mathematical modelling of oocyte population. Supervised by [Romain Yvinec](https://yvinec.perso.math.cnrs.fr/home_fr.html) and [Frédérique Clément](https://team.inria.fr/musca/members/frederique-clement/). 
     button:
       text: ''
       url: ''
   
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+  - area: Master's degree Scientific Calculus and Modelling
+    institution: University of Rennes 1 
+    date_start: 2022-09-01
+    date_end: 2020-09-01
+    summary: | 
+    summa cum laude
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - numerical analysis
+      - scientific computing
+      - physics-based modelling
+      - parameter estimation
+
+  - area: Bachelor's degree Mathematics
+    institution: University of Rennes 1
+    date_start: 2017-09-01
+    date_end: 2020-09-01
     summary: |
-      GPA: 3.4/4.0
+      summa cum laude
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Algebra 
+      - Analysis
+      - Physics
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Internship
+    company_name: INRIA Paris Saclay
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2022-04-01
+    date_end: 2022-09-01
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+    Modelling of fish oogenesis
+  - position: Internship
+    company_name: IRMAR
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2021-06-01
+    date_end: 2021-08-01
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    Scientific computing for biofilms, from adhesion to detachment
+   
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -145,11 +142,11 @@ skills:
 
 languages:
   - name: English
-    percent: 100
-  - name: Chinese
     percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: French
+    percent: 100
+  - name: Italian
+    percent: 60
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -168,4 +165,4 @@ awards:
 
 ## About Me
 
-I'm currently a PhD candidate at INRAE in applied mathematics for biology. My thesis is about the modelling of female germ cells 
+I'm currently a PhD candidate at INRAE in applied mathematics for biology. My thesis is about the modelling of the female fish germ cell population. 

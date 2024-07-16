@@ -35,11 +35,10 @@ sections:
       title: '📚 My work'
       subtitle: ''
       text: |-
-        I'm 
+      I’m currently a PhD candidate at INRAE in applied mathematics for biology. My thesis, supervised by Frédérique Clément and Romain Yvinec, focuses on the mathematical modelling of the female fish germ cell population.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+      My main research interests include mathematical modeling for biology, population dynamics, partial differential equations analysis, the development and application of numerical methods for solving PDEs, and inverse problems. 😃
+  
     design:
       columns: '1'
   #- block: collection
@@ -60,7 +59,7 @@ sections:
       filters:
         folders:
           - publication
-        exclude_featured: false
+        exclude_featured: True
     design:
       view: citation
   # - block: collection
@@ -72,7 +71,7 @@ sections:
   #         - event
   #   design:
   #     view: article-grid
-      columns: 1
+  #    columns: 1
   # - block: collection
   #   id: news
   #   content:

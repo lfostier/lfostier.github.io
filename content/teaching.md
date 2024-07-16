@@ -10,6 +10,7 @@ date_format: Jan 2006
 
 sections:
   - block: experience
+    id: teaching
     content:
       experiences:
         - title: "Introduction to Computer Science"

@@ -2,11 +2,11 @@
 title: "Teaching"
 type: "landing"
 
-sections:
+sections:bon 
   - block: markdown
     content:
       title: "Teaching Experiences"
-      subtitle: "Here are the courses I have taught"
+      subtitle: "Here are the courses I have taught : "
       text: | 
         - **Part-time teaching assistant** - *University of Tours* - 2023
 	         - Algebra and Analysis - L1, 54h

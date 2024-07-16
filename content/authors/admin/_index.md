@@ -102,7 +102,7 @@ work:
     date_start: 2021-06-01
     date_end: 2021-08-01
     summary: |
-    Scientific computing for biofilms, from adhesion to detachment
+      Scientific computing for biofilms, from adhesion to detachment
    
 
 # Skills

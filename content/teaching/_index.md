@@ -6,30 +6,42 @@ type: landing
 design:
   spacing: '5rem'
 
-# Note: `username` refers to the user's folder name in `content/authors/`
 
-# Page sections
-sections:
-  - block: resume-experience
-    content:
-      username: admin
-    design:
-      # Hugo date format
-      date_format: 'January 2006'
-      # Education or Experience section first?
-      is_education_first: false
-  - block: resume-skills
-    content:
-      title: Skills & Hobbies
-      username: admin
-    design:
-      show_skill_percentage: False
-  # - block: resume-awards
-  #   content:
-  #     title: Awards
-  #     username: admin
-  - block: resume-languages
-    content:
-      title: Languages
-      username: admin
+# Date format
+#   Refer to https://wowchemy.com/docs/getting-started/customization/#date-format
+date_format: Jan 2006
+
+# Experiences.
+#   Add/remove as many `experience` blocks below as you like.
+#   Required fields are `title`, `company`, and `date_start`.
+#   Leave `date_end` empty if it's your current employer.
+#   Begin/end multi-line descriptions with `>-`.
+experience:
+  - title: 'CEO'
+    company: 'GenCoin'
+    company_url: ''
+    company_logo: ''  # Optional logo
+    location: 'California'
+    date_start: '2017-01-01'
+    date_end: ''
+    description: >-
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
+                
+  - title: 'Professor'
+    company: 'University X'
+    company_url: ''
+    company_logo: ''
+    location: 'California'
+    date_start: '2016-01-01'
+    date_end: '2016-12-31'
+    description: 'Taught electronic engineering and researched semiconductor physics.'
+
+
+
+
+
 ---

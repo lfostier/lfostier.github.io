@@ -63,7 +63,7 @@ education:
       text: ''
       url: ''
   
-  - area: Master's degree Scientific Calculus and Modelling
+  - area: Master's degree Scientific Computing and Modelling
     institution: University of Rennes 1 
     date_start: 2022-09-01
     date_end: 2020-09-01

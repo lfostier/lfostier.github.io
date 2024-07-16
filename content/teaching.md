@@ -1,43 +1,48 @@
 ---
-title: 'Teaching'
-type: landing
+title: "Teaching"
+type: "landing"
 
 sections:
+  - block: markdown
+    content:
+      title: "Teaching Experiences"
+      text: >
+        Here are the courses I have taught, showcasing my teaching journey.
+
   - block: experience
     content:
-      title: Teaching
-      # Date format for experience
-      #   Refer to https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many experience `items` below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      title: "Courses Taught"
+      date_format: "Jan 2006"
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+        - title: "Introduction to Computer Science"
+          company: "University of Somewhere"
+          company_url: ""
+          company_logo: ""
+          location: "California"
+          date_start: "2023-09-01"
+          date_end: ""
           description: |2-
-              Responsibilities include:
+              An introductory course covering fundamental concepts in computer science.
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+        - title: "Advanced Algorithms"
+          company: "University of Anywhere"
+          company_url: ""
+          company_logo: ""
+          location: "California"
+          date_start: "2023-01-01"
+          date_end: ""
+          description: |2-
+              A deep dive into advanced algorithmic techniques and their applications.
+
+        - title: "Data Structures"
+          company: "University of Everywhere"
+          company_url: ""
+          company_logo: ""
+          location: "California"
+          date_start: "2022-09-01"
+          date_end: ""
+          description: |2-
+              A comprehensive overview of various data structures and their use cases.
     design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
 ---
-

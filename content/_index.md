@@ -53,6 +53,7 @@ sections:
     #   view: article-grid
     #   columns: 2
   - block: collection
+    id: publi
     content:
       title: Publications and Pre-Prints
       text: ""

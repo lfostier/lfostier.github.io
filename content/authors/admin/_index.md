@@ -59,9 +59,9 @@ education:
     date_end: 2025-10-31
     summary: |
       Thesis on the mathematical modelling of oocyte population. Supervised by Romain Yvinec and Frédérique Clément.
-     button:
-       text: ''
-       url: ''
+    button:
+      text: ''
+      url: ''
   
   - area: Master's degree Scientific Computing and Modelling
     institution: University of Rennes 1 

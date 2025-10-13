@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: uploads/academic_cv_louis_fostier.pdf
     design:
       css_class: dark
       background:
@@ -35,9 +35,7 @@ sections:
       title: '📚 My work'
       subtitle: ''
       text: |-
-        I’m currently a PhD candidate at INRAE in applied mathematics for biology. My thesis, supervised by Frédérique Clément and Romain Yvinec, focuses on the mathematical modelling of the female fish germ cell population.
-
-        My main research interests include mathematical modeling for biology, population dynamics, partial differential equations analysis, the development and application of numerical methods for solving PDEs, and inverse problems. 😃
+        During my PhD, I developed and analyzed mathematical PDE models describing cell population dynamics, from germinal cells in fish ovaries to fat cells in adipose tissue, and explored their long term behavior. Additionnaly, I developed a Physics-Informed Neural Networks (PINNs) method to solve inverse problems for such models. I am also interested in equation discovery methods inspired by SINDy to identify governing equations directly from data.
   
     design:
       columns: '1'

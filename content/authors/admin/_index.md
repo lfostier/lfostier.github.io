@@ -49,16 +49,16 @@ profiles:
 interests:
   - Mathematical biology
   - Partial Differential Equations
-  - Scientific Computing
-  - Deep Learning
+  - Computational Science
+  - Machine Learning
 
 education:
   - area: PhD in Applied Mathematics for Biology
-    institution: INRAE Centre Val de Loire 
+    institution: INRAE Centre Val de Loire / INRIA Saclay
     date_start: 2022-11-01
     date_end: 2025-10-31
     summary: |
-      Thesis on the mathematical modelling of oocyte population. Supervised by Romain Yvinec and Frédérique Clément.
+      Thesis on the mathematical analysis and numerical calibration of size-structured cell populations dynamics models. Supervised by Romain Yvinec and Frédérique Clément.
     button:
       text: ''
       url: ''
@@ -172,4 +172,6 @@ languages:
 
 ## About Me
 
-I'm currently a PhD candidate at INRAE in applied mathematics for biology. My thesis is about the modelling of the female fish germ cell population. 
+My research interests focus on the modeling, analysis, identification, and calibration of dynamical systems, mainly motivated by biological questions. 
+
+I am currently looking for a postdoctoral position where I can continue exploring the interface between mathematics, biology, and machine learning, and contribute to interdisciplinary research with real-world impact.

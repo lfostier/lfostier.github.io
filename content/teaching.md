@@ -8,7 +8,7 @@ sections:
       title: "Teaching Experiences"
       subtitle: "Here are the courses I have taught : "
       text: | 
-        - **Part-time teaching assistant*, *University of Tours*, 2024
+        - **Part-time teaching assistant*, *University of Tours**, 2024
           - Calculus and mathematical reasoning - L1, 30h 
         - **Part-time teaching assistant**, *University of Tours*, 2023
           - Algebra and Analysis - L1, 54h 

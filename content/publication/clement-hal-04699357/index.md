@@ -1,18 +1,20 @@
 ---
-title: 'Well-posedness and bifurcation analysis of a size-structured population model:
-  Application to female gametes dynamics'
+title: 'Bifurcation analysis of a size-structured population model: Application to oocyte dynamics and ovarian cycle'
 authors:
 - Frédérique Clément
 - Louis Fostier
 - Romain Yvinec
-date: '2024-09-01'
-publishDate: '2024-09-17T08:00:20.254951Z'
+date: '2025-10-13'
+publishDate: '2025-10-13'
 publication_types:
-- manuscript
+- article
+publication: '*SIAM Journal on Applied Dynamical Systems*'
 tags:
 - size-structured population dynamics ; global existence ; asymptotic behavior ; bifurcation
   analysis ; reproductive biology
 links:
 - name: URL
-  url: https://hal.science/hal-04699357
+  url: https://epubs.siam.org/doi/abs/10.1137/24M1705147
 ---
+
+

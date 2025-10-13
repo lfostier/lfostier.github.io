@@ -1,12 +1,12 @@
 ---
-title: "An example preprint / working paper"
+title: "Rapid cell turnover to model adipocyte size distribution"
 authors:
-- admin
+-  Louis Fostier, Aloïs Dauger, Romain Yvinec, Magali Ribot, Chloe Audebert, Hédi Soula
 date: "2019-04-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2025"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -14,58 +14,23 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Rapid cell turnover to model adipocyte size distribution"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
+abstract: White adipose tissue, composed of adipocyte cells, primarily stores energy as lipid droplets. The size of adipocytes varies significantly within the tissue according to the amount of stored lipids. A striking observation is that the adipocyte size distribution is bimodal, and thus, this tissue is lacking a characteristic size. We propose a novel dynamical model, based on a partial differential equation, to represent the adipocyte size distribution. The model assumes continuous adipocyte growth, with a velocity dependent on cell radius and extracellular lipid availability, together with constant rates of cell recruitment and death. We prove the existence and local stability of a unique stationary solution for a broad range of growth velocity functions. Choosing a parcimonious formulation, we show that only three parameters are enough to describe adipocyte size distributions measurements in rats. These parameters are robustly estimated through approximate Bayesian computation, and the model demonstrates excellent agreement with experimental data. This mechanistic, three-parameter framework offers a new and interpretable approach to characterizing adipocyte size distributions. 
 tags:
-- Large Language Models
+- 
 
 featured: true
 
 links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+- name: Link
+  url: https://hal.science/hal-05105900
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
-  focal_point: ""
-  preview_only: false
 
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-- internal-project
 
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+
+
+
 ---
 
-This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).

@@ -11,7 +11,7 @@ publication_types:
 - article-journal
 publication: '*SIAM Journal on Applied Dynamical Systems*'
 doi: 10.1137/24M1705147
-abstract: .We study the problem of transfers in a population structured by a continuous
+abstract: We study the problem of transfers in a population structured by a continuous
   variable corresponding to the quantity being transferred. The model takes the form
   of an integro-differential equations with kernels corresponding to the specific
   rules of the transfer process. We focus our interest on the well-posedness of the

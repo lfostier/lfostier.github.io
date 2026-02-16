@@ -24,7 +24,7 @@ role: PhD student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: INRAE, INRIA
+  - name: INRIA, LJLL
     url: ''
 
 # Social network links
@@ -48,6 +48,7 @@ profiles:
 
 interests:
   - Mathematical biology
+  - Computational biology
   - Partial Differential Equations
   - Computational Science
   - Machine Learning
@@ -87,6 +88,14 @@ education:
       - Analysis
       - Physics
 work:
+  - position: Post doctoral position
+    company_name: Inria Paris
+    company_url: ''
+    company_logo: ''
+    date_start: 2026-02-01
+    date_end: 2027-01-31
+    summary: |
+      Modeling of Adipose tissue morphogenesis
   - position: Hackaton
     company_name: CEMRACS
     company_url: ''
@@ -172,6 +181,6 @@ languages:
 
 ## About Me
 
-My research interests focus on the modeling, analysis, identification, and calibration of dynamical systems, mainly motivated by biological questions. 
+My research interests focus on the modeling, analysis, identification, and calibration of dynamical systems, motivated by biological questions. 
 
-I am currently looking for a postdoctoral position where I can continue exploring the interface between mathematics, biology, and machine learning, and contribute to interdisciplinary research with real-world impact.
+I am currently a postdoctoral researcher in the INRIA MUSCLEES team, working with Diane Peurichard on mathematical models of adipose tissue morphogenesis that integrate mechanical and metabolic cues, and contributing to interdisciplinary research at the crossroads of mathematics, biology, and machine learning.

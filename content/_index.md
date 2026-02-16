@@ -35,7 +35,7 @@ sections:
       title: '📚 My work'
       subtitle: ''
       text: |-
-        During my PhD, I developed and analyzed mathematical PDE models describing cell population dynamics, from germinal cells in fish ovaries to fat cells in adipose tissue, and explored their long term behavior. Additionnaly, I developed a Physics-Informed Neural Networks (PINNs) method to solve inverse problems for such models. I am also interested in equation discovery methods inspired by SINDy to identify governing equations directly from data.
+        During my PhD, I developed and analyzed mathematical PDE models describing cell population dynamics, from germinal cells in fish ovaries to fat cells in adipose tissue, and explored their long term behavior. Additionnaly, I developed a Physics-Informed Neural Networks (PINNs) method to solve inverse problems for such models. More broadly, I am interested in equation discovery methods, included SINDy-like methods to identify governing equations starting from data.
   
     design:
       columns: '1'

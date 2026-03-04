@@ -10,10 +10,9 @@ authors:
 - Wassim Tenachi
 date: '2024-04-01'
 publishDate: '2024-07-15T16:52:24.872097Z'
-publication_types:
-- manuscript
-publication: '*arXiv*'
-doi: 10.48550/arXiv.2404.15742
+publication_types: ['paper-conference']
+publication: '*ESAIM: Proceedings and Surveys*'
+doi: 10.1051/proc/202581168
 abstract: Symbolic Regression (SR) is a widely studied field of research that aims
   to infer symbolic expressions from data. A popular approach for SR is the Sparse
   Identification of Nonlinear Dynamical Systems (sindy) framework, which uses sparse
@@ -39,5 +38,5 @@ tags:
 - Mathematics - Numerical Analysis
 links:
 - name: URL
-  url: http://arxiv.org/abs/2404.15742
+  url: https://www.esaim-proc.org/articles/proc/abs/2025/04/proc25081009/proc25081009.html
 ---

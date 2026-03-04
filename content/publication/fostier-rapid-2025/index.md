@@ -10,7 +10,9 @@ authors:
 date: '2025-06-01'
 publishDate: '2025-10-13T15:58:51.587080Z'
 publication_types:
-- manuscript
+- article-journal
+publication: '*Journal of Theoretical Biology*'
+doi: 10.1016/j.jtbi.2025.112311
 abstract: 'White adipose tissue, composed of adipocyte cells, primarily stores energy
   as lipid droplets. The size of adipocytes varies significantly within the tissue
   due to the amount of stored lipids, and their size distribution is uniquely bimodal,
@@ -36,5 +38,5 @@ tags:
 - white adipocyte tissue
 links:
 - name: URL
-  url: https://hal.science/hal-05105900
+  url: https://www.sciencedirect.com/science/article/pii/S0022519325002954
 ---

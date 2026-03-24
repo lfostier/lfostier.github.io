@@ -61,8 +61,8 @@ education:
     summary: |
       Thesis on the mathematical analysis and numerical calibration of size-structured cell populations dynamics models. Supervised by Romain Yvinec and Frédérique Clément.
     button:
-      text: ''
-      url: ''
+      text: 'Manuscript link'
+      url: 'https://theses.hal.science/tel-05400934v1'
   
   - area: Master's degree Scientific Computing and Modelling
     institution: University of Rennes 1 

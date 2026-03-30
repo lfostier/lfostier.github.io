@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Post doctoral researcher
+role: Post-doctoral researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:

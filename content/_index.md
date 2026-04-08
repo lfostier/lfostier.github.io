@@ -61,7 +61,7 @@ sections:
         exclude_featured: True
     design:
       view: citation
-   - block: collection
+  # -! block: collection
   #   id: talks
   #   content:
   #     title: Recent & Upcoming Talks

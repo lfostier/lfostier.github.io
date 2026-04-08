@@ -73,7 +73,7 @@ education:
       - Numerical analysis
       - Scientific computing
       - Physics-based modelling
-      - Parameter estimation
+      - Parameter estimation 
 
   - area: Bachelor's degree Mathematics
     institution: University of Rennes 1

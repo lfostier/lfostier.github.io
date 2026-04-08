@@ -18,9 +18,6 @@ sections:
       button:
         text: Download CV
         url: uploads/academic_cv_louis_fostier.pdf
-      button:
-        text: 'thesis manuscript'
-        url: uploads/academic_cv_louis_fostier.pdf
     design:
       css_class: dark
       background:
@@ -64,7 +61,7 @@ sections:
         exclude_featured: True
     design:
       view: citation
-  # - block: collection
+   - block: collection
   #   id: talks
   #   content:
   #     title: Recent & Upcoming Talks

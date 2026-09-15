@@ -30,13 +30,11 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: markdown
+  - block: cta-button-list
     content:
-      title: "Allons-nous continuer la recherche scientifique ? Grothendieck, l’IA et la communauté mathématique"
-      text: |-
-        <a class="btn btn-primary" href="uploads/grothendieck_recherche_ia.pdf">Lire le texte</a>
-    design:
-      columns: '1'
+      buttons:
+        - text: "Lire le texte : Allons-nous continuer la recherche scientifique ? Grothendieck, l’IA et la communauté mathématique"
+          url: uploads/grothendieck_recherche_ia.pdf
   - block: markdown
     content:
       title: '📚 My work'

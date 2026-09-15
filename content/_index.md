@@ -32,6 +32,13 @@ sections:
           parallax: false
   - block: markdown
     content:
+      title: "Allons-nous continuer la recherche scientifique ? Grothendieck, l’IA et la communauté mathématique"
+      text: |-
+        <a class="btn btn-primary" href="uploads/grothendieck_recherche_ia.pdf">Lire le texte</a>
+    design:
+      columns: '1'
+  - block: markdown
+    content:
       title: '📚 My work'
       subtitle: ''
       text: |-
